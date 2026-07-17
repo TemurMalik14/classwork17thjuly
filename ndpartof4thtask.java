@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//2qismistpart4thtaskni
 public class ndpartof4thtask {
     public static void main(String[] args) {
         stpart4thtask myobj = new stpart4thtask();

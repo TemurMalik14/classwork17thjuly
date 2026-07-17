@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//2qismiclasswork4ni
 public class classwork2ndpart4th {
 
     public static void main(String[] args) {
